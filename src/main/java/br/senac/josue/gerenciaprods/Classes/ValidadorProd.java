@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.senac.josue.gerenciaprods;
+package br.senac.josue.gerenciaprods.Classes;
+
+import br.senac.josue.gerenciaprods.Classes.ProdutoException;
 
 /**
  *
